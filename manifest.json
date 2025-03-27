@@ -1,0 +1,11 @@
+{
+  "name": "KLUT-DeepSeek-API",
+  "version": "1.0.0",
+  "author": "ayaoayaoayaoaya",
+  "short_description": "DeepSeek API integration for ComfyUI",
+  "description": "Provides nodes for integrating DeepSeek's AI models with ComfyUI workflows.",
+  "repository_url": "https://github.com/ayaoayaoayaoaya/ComfyUI-KLUT-DeepSeek-API",
+  "tags": ["API", "DeepSeek", "AI"],
+  "install_requirements": ["requests"],
+  "comfyui_version": ">=0.1.0"
+}
